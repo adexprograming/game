@@ -1,0 +1,34 @@
+body{
+    background-image: url(slike/Untitled.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.uvod{
+    position: relative;
+    width: 600px;
+    height: 200px;
+    border: 7px solid black;
+    left: 200px;
+    background-color: gray;
+}
+.uvod1{
+    left: 300px;
+    position: relative;
+    font-size: 20px;
+    color: white;
+}
+#start{
+    top: 50px;
+    height: 30px;
+    width: 40px;
+    left: 400px;
+    position: relative;
+    background-color: gray;
+    border: 3px solid black;
+}
+.start{
+    position: relative;
+    left: 5px;
+    top: 5px;
+    color: white;
+}
